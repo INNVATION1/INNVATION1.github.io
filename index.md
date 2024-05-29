@@ -1,5 +1,5 @@
 ---
-title: Awards
+title: DingNLAB
 description: Our lab has received international praise for our contributions to science.
 nav:
   order: 1
