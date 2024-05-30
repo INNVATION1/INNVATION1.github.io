@@ -1,9 +1,11 @@
 ---
+title:DingNLAB
 ---
 
 # Probably the best cognitive science lab in the Eastern Hemisphere
+DingNLAB 好好好！最好的LAB！
 
-
+{% include section.html %}
 
 ## Highlights
 
